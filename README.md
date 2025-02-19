@@ -58,7 +58,7 @@ The system simulates business decisions in a **competitive market**, including:
 
 ---
 
-##   3. View results:
+##    View results:
 
 Generated plots will be saved in the output/ directory:
 -	agent_performance.png (Total reward trends per agent)
