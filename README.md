@@ -52,7 +52,6 @@ The system simulates business decisions in a **competitive market**, including:
  **Optimize reward functions** to prevent capital depletion.  
  **Enhance competitive behavior** to prevent unrealistic **100% market dominance**.  
  **Adjust Q-learning hyperparameters** for better decision-making efficiency.  
-
  **Evaluate the impact of different market conditions** to create a more dynamic training environment.  
  **Introduce adversarial strategies** to prevent agents from overfitting to specific conditions.  
 
